@@ -54,3 +54,18 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - G: [HashIT](https://www.spoj.com/problems/HASHIT.pdf);
 - H: [Hash](https://br.spoj.com/problems/HASHADIQ.pdf);
 - I: [Mensagens Nlogoniences](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-hash/mensagens.html).
+
+## 6ª Lista de EDA-2 2021/2- Priority Queue
+<b>A Lista 5 foi, basicamente, solucionar problemas utilizando filas de prioridade . Com 2 problemas de implementações de Priority Queue  na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+- A:[Menores Placas](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-pq/menores-placas.html);
+- B:[Churrascarias da Avenida](https://br.spoj.com/problems/CHURRASC.pdf).
+
+## 7ª Lista de EDA-2 2021/2- Grafos
+<b>A Lista 5 foi, basicamente, solucionar problemas utilizando Grafos . Com 7 problemas de implementações de Grafos na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+- A:[]();
+- B:[]();
+- C:[]();
+- D:[]();
+- E:[]();
+- F:[]();
+- G:[]().
