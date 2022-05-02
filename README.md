@@ -1,6 +1,7 @@
 # EDA2_FGA_UnB
 EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e Algoritmos 2 do Professor Bruno Ribas da FGA-UnB
 # Colaboradores
+<b> Eu,Lucas Ramon, e os camaradas Felipe Alef e Thalisson Alves unimos esforços para deixar alguns problemas do [CD-MOJ](https://moj.naquadah.com.br/cgi-bin/index.sh) resolvidos e ajudar uma geração de outros camaradas que estão sofrendo para solucionar estes mesmos problemas. Use com sabedoria, meu(minha) jovem pois há o plagiator que identifica plágios e o seu coleguinha também tem acesso a este repositório. A ideia é mostrar o caminho das pedras. Um abraço e que você possa aprender muito com esse repositório !!!
 - [Lucas Ramon](https://github.com/lramon2001);
 - [Felipe Alef](https://github.com/Alef012);
 - [Thalisson Alves](https://github.com/Thalisson-Alves).
