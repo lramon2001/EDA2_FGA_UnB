@@ -1,9 +1,9 @@
 # EDA2_FGA_UnB
 EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e Algoritmos 2 do Professor Bruno Ribas da FGA-UnB
 # Colaboradores
-- [Lucas Ramon]();
-- [Felipe Alef]();
-- [Thalisson Alves]().
+- [Lucas Ramon](https://github.com/lramon2001);
+- [Felipe Alef](https://github.com/Alef012);
+- [Thalisson Alves](https://github.com/Thalisson-Alves).
 
 
 ## 1ª Lista de EDA-2 2021/2 - Desenferrujando para o semestre
