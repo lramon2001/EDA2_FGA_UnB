@@ -1,5 +1,10 @@
 # EDA2_FGA_UnB
 EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e Algoritmos 2 do Professor Bruno Ribas da FGA-UnB
+# Colaboradores
+- [Lucas Ramon]();
+- [Felipe Alef]();
+- [Thalisson Alves]().
+
 
 ## 1ª Lista de EDA-2 2021/2 - Desenferrujando para o semestre
 <b>A Lista 1 foi, basicamente, uma revisão de Algoritmos e programação de computadores. Com 11 problemas de resolução puramente algorítmica na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
@@ -35,13 +40,13 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 
 ## 4ª Lista de EDA-2 2021/2- QuickSort
 <b>A Lista 4 foi, basicamente, solucionar problemas de ordenação utilzando o quicksort . Com 7 problemas de implementações do quicksort na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
-- A: [Números Malucos Únicos Reinseridos](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/intercala8.html);
-- B: [Implemente o QuickSort](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/ordenaelaborado.html);
-- C: [Sanidade](https://www.spoj.com/problems/MERGSORT.pdf);
-- D: [O fantástico Jáspion](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/busca-binaria-1.html);
-- E: [Eleição U.R.S.A.L](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/busca-binaria-2.html);
-- F: [](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/proibido.html);
-- G: [](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/remocao.html).
+- A: [Números Malucos Únicos Reinseridos](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/nmur.html);
+- B: [Implemente o QuickSort](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/ordenaelaborado.html);
+- C: [Sanidade](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/sanidade.html);
+- D: [O fantástico Jáspion](https://br.spoj.com/problems/JASPION.pdf);
+- E: [Eleição U.R.S.A.L](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/eleicao-ursal.html);
+- F: [Classificados de Sementes](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/classificado-agronomia.html);
+- G: [kk-página](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/kk-pagina.html).
 ## PROVA 1 de EDA-2 2021/2
 <b>A prova 1 foi, basicamente, solucionar problemas utilizando os algoritmos de ordenação ou tabela hash . Com 3 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 -10pontos: [Número Proibido](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/proibido.html)
