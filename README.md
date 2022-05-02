@@ -42,9 +42,14 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - E: [Eleição U.R.S.A.L](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/busca-binaria-2.html);
 - F: [](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/proibido.html);
 - G: [](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/remocao.html).
+## PROVA 1 de EDA-2 2021/2
+<b>A prova 1 foi, basicamente, solucionar problemas utilizando os algoritmos de ordenação ou tabela hash . Com 3 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+-10pontos: [Número Proibido](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/proibido.html)
+-15pontos: [kk-página](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/kk-pagina.html)
+-75pontos: [Analisando Dados de Degustação](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/sequencia-desgustacao.html)
 
  ## 5ª Lista de EDA-2 2021/2- Hashing
-<b>A Lista 5 foi, basicamente, solucionar problemas de contagem utilizando tabela hash . Com 9 problemas de implementações de tabela hash na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+<b>A Lista 5 foi, basicamente, solucionar problemas de contagem utilizando tabela hash . Com 5 problemas de implementações de tabela hash na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Desfile dos Patos](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-hash/desfile.html);
 - B: [Diga-me a frequência](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-hash/digafrequencia.html);
 - C: [Eleição U.R.S.A.L](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-hash/eleicao-ursal-big.html);
@@ -69,3 +74,9 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - E:[Cai fora LAG](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-chp.html);
 - F:[Natureza](https://br.spoj.com/problems/NATUREZA.pdf);
 - G:[Ir e Vir](https://br.spoj.com/problems/IREVIR.pdf).
+
+## TRABALHO de EDA-2 2021/2
+<b>O trablho foi, basicamente, solucionar problemas utilizando Grafos e Tabela Hash. Com 2 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+-20pontos: [Aeroporto](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-trabalho/aeroporto.html)
+-35pontos: [Transmissão de energia](https://br.spoj.com/problems/ENERGIA.pdf)
+-45pontos: [Caminho das Pontes](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-trabalho/pontes.html)
