@@ -20,7 +20,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 -  H1: [Soma String](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-lista1-relembrando/soma_string.html);
 -  H2: [Quem vai ser reprovado](https://br.spoj.com/problems/PLACAR.pdf);
 -  I: [Frequência na Aula](https://br.spoj.com/problems/FREQUE12.pdf).
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 ## 2ª Lista de EDA-2 2021/2- Ordenação Elementar
 <b>A Lista 2 foi, basicamente, solucionar problemas de ordenação. Com 5 problemas de implementações de algoritmos de ordenação na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Ordenação por Bolha](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-ordena-elementar/ordenasimples-bolha.html);
@@ -28,7 +28,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - C: [Ordenação por Inserção (simples)](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-ordena-elementar/ordenasimples-insercao.html);
 - D: [Ordenação por Inserção](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-ordena-elementar/ordenainsercao.html);
 - E: [Pesquisa Instruções](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-ordena-elementar/pesquisa-instrucoes.html).
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 ## 3ª Lista de EDA-2 2021/2- Mergesort
 <b>A Lista 3 foi, basicamente, solucionar problemas de ordenação utilzando o mergesort . Com 7 problemas de implementações do mergesort na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Intercala8](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/intercala8.html);
@@ -38,7 +38,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - E: [Busca Binaria](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/busca-binaria-2.html);
 - F: [Número Proibido](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/proibido.html);
 - G: [Remoção](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-mergesort/remocao.html).
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 ## 4ª Lista de EDA-2 2021/2- QuickSort
 <b>A Lista 4 foi, basicamente, solucionar problemas de ordenação utilzando o quicksort . Com 7 problemas de implementações do quicksort na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Números Malucos Únicos Reinseridos](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/nmur.html);
@@ -48,12 +48,13 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - E: [Eleição U.R.S.A.L](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/eleicao-ursal.html);
 - F: [Classificados de Sementes](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/classificado-agronomia.html);
 - G: [kk-página](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-quicksort/kk-pagina.html).
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 ## PROVA 1 de EDA-2 2021/2
 <b>A prova 1 foi, basicamente, solucionar problemas utilizando os algoritmos de ordenação ou tabela hash . Com 3 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 -10pontos: [Número Proibido](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/proibido.html)
 -15pontos: [kk-página](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/kk-pagina.html)
 -75pontos: [Analisando Dados de Degustação](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/sequencia-desgustacao.html)
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
  ## 5ª Lista de EDA-2 2021/2- Hashing
 <b>A Lista 5 foi, basicamente, solucionar problemas de contagem utilizando tabela hash . Com 5 problemas de implementações de tabela hash na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A: [Desfile dos Patos](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-hash/desfile.html);
@@ -65,12 +66,12 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - G: [HashIT](https://www.spoj.com/problems/HASHIT.pdf);
 - H: [Hash](https://br.spoj.com/problems/HASHADIQ.pdf);
 - I: [Mensagens Nlogoniences](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-hash/mensagens.html).
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 ## 6ª Lista de EDA-2 2021/2- Priority Queue
 <b>A Lista 5 foi, basicamente, solucionar problemas utilizando filas de prioridade . Com 2 problemas de implementações de Priority Queue  na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A:[Menores Placas](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-pq/menores-placas.html);
 - B:[Churrascarias da Avenida](https://br.spoj.com/problems/CHURRASC.pdf).
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 ## 7ª Lista de EDA-2 2021/2- Grafos
 <b>A Lista 5 foi, basicamente, solucionar problemas utilizando Grafos . Com 7 problemas de implementações de Grafos na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - A:[Eu vou estar lá!](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/euvouestarla.html);
@@ -80,10 +81,11 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 - E:[Cai fora LAG](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-chp.html);
 - F:[Natureza](https://br.spoj.com/problems/NATUREZA.pdf);
 - G:[Ir e Vir](https://br.spoj.com/problems/IREVIR.pdf).
-
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
 
 ## TRABALHO de EDA-2 2021/2
 <b>O trablho foi, basicamente, solucionar problemas utilizando Grafos e Tabela Hash. Com 2 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - 20pontos: [Aeroporto](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-trabalho/aeroporto.html);
 - 35pontos: [Transmissão de energia](https://br.spoj.com/problems/ENERGIA.pdf);
 - 45pontos: [Caminho das Pontes](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-trabalho/pontes.html).
+<b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
