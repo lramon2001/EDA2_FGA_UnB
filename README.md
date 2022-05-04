@@ -86,13 +86,13 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
  
 ## 7ª Lista de EDA-2 2021/2- Grafos
 <b>A Lista 5 foi, basicamente, solucionar problemas utilizando Grafos . Com 7 problemas de implementações de Grafos na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
-- A:[Eu vou estar lá!](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/euvouestarla.html);
-- B:[Estradas asfaltadas](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-nucleos-cidades.html);
-- C:[Estradas asfaltadas - viagem aérea](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-ajude-joao.html);
-- D:[Estradas asfaltadas - perguntando conexões](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-nlogonia-conexoes.html);
-- E:[Cai fora LAG](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-chp.html);
-- F:[Natureza](https://br.spoj.com/problems/NATUREZA.pdf);
-- G:[Ir e Vir](https://br.spoj.com/problems/IREVIR.pdf).
+- A: [Eu vou estar lá!](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/euvouestarla.html);
+- B: [Estradas asfaltadas](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-nucleos-cidades.html);
+- C: [Estradas asfaltadas - viagem aérea](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-ajude-joao.html);
+- D: [Estradas asfaltadas - perguntando conexões](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-nlogonia-conexoes.html);
+- E: [Cai fora LAG](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-grafos/grafo-chp.html);
+- F: [Natureza](https://br.spoj.com/problems/NATUREZA.pdf);
+- G: [Ir e Vir](https://br.spoj.com/problems/IREVIR.pdf).
  
 <b>Clique [aqui](https://github.com/lramon2001/EDA2_FGA_UnB/tree/main/Lista%207) para ver as soluções.</b>
 
