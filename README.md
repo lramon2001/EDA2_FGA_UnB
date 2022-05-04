@@ -97,7 +97,7 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
 <b>Clique [aqui](https://github.com/lramon2001/EDA2_FGA_UnB/tree/main/Lista%207) para ver as soluções.</b>
 
 ## TRABALHO de EDA-2 2021/2
-<b>O trablho foi, basicamente, solucionar problemas utilizando Grafos e Tabela Hash. Com 2 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
+<b>O trablho foi, basicamente, solucionar problemas utilizando Grafos e Tabela Hash. Com 3 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
 - 20pontos: [Aeroporto](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-trabalho/aeroporto.html);
 - 35pontos: [Transmissão de energia](https://br.spoj.com/problems/ENERGIA.pdf);
 - 45pontos: [Caminho das Pontes](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-trabalho/pontes.html).
