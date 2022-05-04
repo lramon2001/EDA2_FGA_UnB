@@ -3,9 +3,9 @@
 
 #define min(a, b) (a < b ? a : b)
 #define max(a, b) (b < a ? a : b)
-#define Item int
-#define key(x) (x)
-#define less(a, b) (a > b)
+// #define Item int
+#define key(x) (x->value)
+#define less(a, b) (key(a) > key(b))
 #define swap(a, b)  \
     {               \
         Item t = a; \
@@ -16,7 +16,14 @@
     if (less(b, a))   \
     swap(a, b)
 
-Item NULL_ITEM = -1;
+struct Item
+{
+    int heap_idx, value;
+};
+
+typedef struct Item *Item;
+
+Item NULL_ITEM = NULL;
 
 typedef struct
 {
@@ -27,7 +34,11 @@ typedef struct
 void HEAP_fixup(Item *heap, int i)
 {
     for (; i > 1 && less(heap[i / 2], heap[i]); i /= 2)
+    {
         swap(heap[i], heap[i / 2]);
+        heap[i]->heap_idx = i;
+        heap[i / 2]->heap_idx = i / 2;
+    }
 }
 
 void HEAP_fixdown(Item *heap, size_t size, int i)
@@ -41,6 +52,8 @@ void HEAP_fixdown(Item *heap, size_t size, int i)
             break;
 
         swap(heap[i], heap[larger]);
+        heap[i]->heap_idx = i;
+        heap[larger]->heap_idx = larger;
     }
 }
 
@@ -74,6 +87,7 @@ void PQ_insert(PriorityQueue *pq, Item x)
 {
     PQ_ensureCapacity(pq, pq->size + 1);
     pq->heap[++pq->size] = x;
+    x->heap_idx = pq->size;
     HEAP_fixup(pq->heap, pq->size);
 }
 
@@ -93,34 +107,46 @@ Item PQ_extractTop(PriorityQueue *pq)
     return top;
 }
 
-int main()
+Item PQ_remove(PriorityQueue *pq, int i)
 {
-    PriorityQueue pq = PQ_init(16);
-    int t, p, v[100];
+    if (i < 1 || i > pq->size)
+        return NULL_ITEM;
 
-    while (scanf(" %d %d", &t, &p) == 2)
+    Item removed = pq->heap[i];
+    pq->heap[i] = pq->heap[pq->size--];
+    HEAP_fixdown(pq->heap, pq->size, i);
+    return removed;
+}
+
+void solve()
+{
+    int n, k;
+    scanf(" %d %d\n", &n, &k);
+    if (n == 0 && k == 0)
+        return;
+
+    Item v = malloc(n * sizeof(struct Item));
+    for (int i = 0; i < n; i++)
+        scanf(" %d", &v[i].value);
+
+    PriorityQueue pq = PQ_init(k);
+    for (int i = 0; i < k - 1; i++)
+        PQ_insert(&pq, &v[i]);
+
+    for (int i = k - 1; i < n; i++)
     {
-        if (t == 1)
-            PQ_insert(&pq, p);
-        else
-        {
-            int n;
-            for (n = 0; n < p; n++)
-            {
-                int top = PQ_extractTop(&pq);
-                if (top == NULL_ITEM)
-                    break;
-                v[n] = top;
-            }
-            for (int i = 0; i < n; i++)
-            {
-                printf("%d%c", v[i], " \n"[i == n-1]);
-                PQ_insert(&pq, v[i]);
-            }
-        }
+        PQ_insert(&pq, &v[i]);
+        printf("%d%c", PQ_getTop(pq)->value, " \n"[i == n-1]);
+        PQ_remove(&pq, v[i - k + 1].heap_idx);
     }
 
     PQ_free(pq);
+    solve();
+}
+
+int main()
+{
+    solve();
 
     return 0;
 }

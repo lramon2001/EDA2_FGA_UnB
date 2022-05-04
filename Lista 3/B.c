@@ -30,22 +30,25 @@ void merge(int *a, int sizea, int *b, int sizeb)
     free(temp);
 }
 
-int ans[800008], v[100001];
+void mergesort(int *v, int n)
+{
+    if (n < 2) return;
+    int m = n / 2;
+    mergesort(v, m);
+    mergesort(&v[m], n - m);
+    merge(v, m, v + m, n - m);
+}
 
 int main()
 {
     int n = 0;
-    for (int i = 0; i < 8; i++)
-    {
-        int vsize = 0;
-        scanf(" %d", &vsize);
-        for (int j = 0; j < vsize; j++)
-            scanf(" %d", &v[j]);
-        merge(ans, n, v, vsize);
-        n += vsize;
-    }
+    scanf("%d", &n);
+    int *v = (int *)malloc(n * sizeof(int));
+    for (int i = 0; i < n; i++)
+        scanf(" %d", v + i);
 
-    printarr(ans, n);
+    mergesort(v, n);
+    printarr(v, n);
 
     return 0;
 }

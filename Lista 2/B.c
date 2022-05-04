@@ -1,23 +1,28 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-void bubblesort(int *v, int size)
+#define SWAP(a, b) \
+    int t = a;     \
+    a = b;         \
+    b = t;
+
+void sort(int *v, int size)
 {
     for (int i = 0; i < size - 1; i++)
-        for (int j = 1; j < size; j++)
-            if (v[j - 1] > v[j])
-            {
-                int t = v[j - 1];
-                v[j - 1] = v[j];
-                v[j] = t;
-            }
+    {
+        int min = i;
+        for (int j = i + 1; j < size; j++)
+            if (v[j] < v[min])
+                min = j;
+        SWAP(v[i], v[min]);
+    }
 }
 
 int main()
 {
     int v[1001], size;
     for (size = 0; scanf(" %d", v + size) == 1; size++);
-    bubblesort(v, size);
+    sort(v, size);
     for (int i = 0; i < size; i++)
         printf("%d%c", v[i], (i == size - 1 ? '\n' : ' '));
 

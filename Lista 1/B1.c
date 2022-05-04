@@ -3,7 +3,9 @@
 
 int main()
 {
-    printf("Ola Mundo\n");
+    int a, b;
+    scanf("%d\n%d", &a, &b);
+    printf("%d\n", a + b);
 
     return 0;
 }
