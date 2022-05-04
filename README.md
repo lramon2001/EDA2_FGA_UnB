@@ -57,9 +57,10 @@ EDA1_FGA_UnB 📚-Repositório Criado para a disciplina de Estrutura de Dados e 
  
 ## PROVA 1 de EDA-2 2021/2
 <b>A prova 1 foi, basicamente, solucionar problemas utilizando os algoritmos de ordenação ou tabela hash . Com 3 problemas de implementações na linguagem C. Os problemas serão listados a seguir e há links associados a eles.</b>
--10pontos: [Número Proibido](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/proibido.html)
--15pontos: [kk-página](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/kk-pagina.html)
--75pontos: [Analisando Dados de Degustação](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/sequencia-desgustacao.html)
+- 10pontos: [Número Proibido](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/proibido.html);
+- 15pontos: [kk-página](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/kk-pagina.html);
+- 75pontos: [Analisando Dados de Degustação](https://moj.naquadah.com.br/contests/bcr-EDA2-2021_2-prova-1/sequencia-desgustacao.html).
+ 
 <b>Clique [aqui](https://github.com/lramon2001/EDA1_FGA_UnB/tree/master/formativa2) para ver as soluções.</b>
  
  ## 5ª Lista de EDA-2 2021/2- Hashing
